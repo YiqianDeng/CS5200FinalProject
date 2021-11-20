@@ -1,3 +1,3 @@
 # CS5200FinalProject
 
-## Name of project:
+### Name of project:
