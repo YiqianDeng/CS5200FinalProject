@@ -8,4 +8,4 @@ Team members: Yiqian Deng, Dongzi Wang, Xiaoqing Qiao, Yuanyuan Zhou
 
 Description: This is a clinic vet appointment system which allow petOwners to make appointment with different Veterinary as needed.
 
-UML link: [a link](https://github.com/YiqianDeng/CS5200FinalProject/src/db_design_final_project_UML.pdf)
+UML link: [UML](src/db_design_final_project_UML.pdf)
