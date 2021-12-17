@@ -8,6 +8,8 @@ Team members: Yiqian Deng, Dongzi Wang, Xiaoqing Qiao, Yuanyuan Zhou
 
 Description: This is a clinic vet appointment system which allow petOwners to make appointment with different Veterinary as needed.
 
+Code Repo: https://github.com/YiqianDeng/CS5200FinalProjectRepo2
+
 UML link: [UML](src/db_design_final_project_UML.pdf)
 
 Remote DB link: mysql://bc3b7a2577a2bf:36e53dba@us-cdbr-east-04.cleardb.com/heroku_377296b61b76ec8?reconnect=true
@@ -28,4 +30,6 @@ Relationships:
 
 - enumeration: ServiceName
 
-Description of the user interface requirements:
+
+
+P3 link: https://docs.google.com/document/d/1ICHGsPklQcH59gIlx7b219A-NFSEId1jm3IswN6WcGk/edit?usp=sharing
